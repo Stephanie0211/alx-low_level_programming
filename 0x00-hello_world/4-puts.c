@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main or otherwise called the entry point is used to show the executable part of the programe
+ * main- Write '"Programming is like a multilingual puzzle'
+ * Return: always 0 (success)
  */
 int main(void)
 {
